@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2012-08-27T12:00:27Z" product-name="clubmanagement">
+		<header/>
+		<body>
+
+			<trans-unit id="minute.description">
+				<source>minute</source>
+			</trans-unit>
+			<trans-unit id="player.description">
+				<source>player</source>
+			</trans-unit>
+			<trans-unit id="type.description">
+				<source>type</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

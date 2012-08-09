@@ -1,0 +1,42 @@
+<table class="tx-clubmanagement" >
+	<tr>
+		<td>
+			<f:translate key="tx_clubmanagement_domain_model_player.first_name" />
+		</td>
+		<td>
+			{player.firstName}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_clubmanagement_domain_model_player.last_name" />
+		</td>
+		<td>
+			{player.lastName}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_clubmanagement_domain_model_player.position" />
+		</td>
+		<td>
+			{player.position}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_clubmanagement_domain_model_player.birthday" />
+		</td>
+		<td>
+			{player.birthday -> f:format.date()}
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<f:translate key="tx_clubmanagement_domain_model_player.picture" />
+		</td>
+		<td>
+			{player.picture}
+		</td>
+	</tr>
+</table>

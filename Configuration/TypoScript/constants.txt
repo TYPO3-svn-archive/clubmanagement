@@ -1,0 +1,14 @@
+plugin.tx_clubmanagement {
+	view {
+		# cat=plugin.tx_clubmanagement/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:clubmanagement/Resources/Private/Templates/
+		# cat=plugin.tx_clubmanagement/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:clubmanagement/Resources/Private/Partials/
+		# cat=plugin.tx_clubmanagement/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:clubmanagement/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_clubmanagement//a; type=string; label=Default storage PID
+		storagePid = 
+	}
+}

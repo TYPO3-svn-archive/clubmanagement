@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2012-08-27T12:00:27Z" product-name="clubmanagement">
+		<header/>
+		<body>
+
+			<trans-unit id="title.description">
+				<source>title</source>
+			</trans-unit>
+			<trans-unit id="teaser.description">
+				<source>teaser</source>
+			</trans-unit>
+			<trans-unit id="report_text.description">
+				<source>reportText</source>
+			</trans-unit>
+			<trans-unit id="half_time_result.description">
+				<source>halfTimeResult</source>
+			</trans-unit>
+			<trans-unit id="full_time_result.description">
+				<source>fullTimeResult</source>
+			</trans-unit>
+			<trans-unit id="placement.description">
+				<source>placement</source>
+			</trans-unit>
+			<trans-unit id="home_game.description">
+				<source>homeGame</source>
+			</trans-unit>
+			<trans-unit id="date.description">
+				<source>date</source>
+			</trans-unit>
+			<trans-unit id="opponent.description">
+				<source>opponent</source>
+			</trans-unit>
+			<trans-unit id="team.description">
+				<source>team</source>
+			</trans-unit>
+			<trans-unit id="statistics.description">
+				<source>statistics</source>
+			</trans-unit>
+			<trans-unit id="type.description">
+				<source>type</source>
+			</trans-unit>
+			<trans-unit id="season.description">
+				<source>season</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
